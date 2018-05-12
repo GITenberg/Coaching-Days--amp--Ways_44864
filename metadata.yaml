@@ -1,0 +1,38 @@
+_repo: Coaching-Days--amp--Ways_44864
+_version: 0.1.0
+alternative_title: Coaching Days and Ways
+contributor:
+  illustrator:
+    agent_name: Armour, G. D. (George Denholm)
+    alias: Armour, George Denholm
+    birthdate: 1864
+    deathdate: 1949
+    gutenberg_agent_id: '42799'
+    url: http://www.gutenberg.org/2009/agents/42799
+covers:
+- cover_type: archival
+  image_path: 44864-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Cuming, E. D. (Edward William Dirom)
+    alias: Cuming, Edward William Dirom
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '38630'
+    url: http://www.gutenberg.org/2009/agents/38630
+description: ''
+gutenberg_issued: '2014-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coaching (Transportation) -- England'
+- !lcc 'DA'
+- !lcc 'HE'
+- !lcsh 'England -- Social life and customs'
+title: Coaching Days & Ways
+url: http://www.gutenberg.org/ebooks/44864
